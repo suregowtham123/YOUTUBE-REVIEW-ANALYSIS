@@ -42,7 +42,10 @@ Given a YouTube video reviewing a product (e.g., iPhone 15), the system will:
 | Visualization        | Matplotlib, WordCloud, seaborn       |
 | Optional UI          | Streamlit / Flask Web UI             |
 
-##Screen shots
+##Screenshots
+![Telegram bot image1](bot1.png)
+
+![Telegram bot image2](bot2.png)
 
 
 ## 📦 Installation
